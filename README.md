@@ -76,6 +76,7 @@ Two-factor authentication is required for GitHub accounts. To set it up:
 2. Ensure ID card shows valid dates
 3. Check image quality of submitted documents
 4. Wait 24 hours before reapplying
+5. Also apply again from you college or university location of which email you are using to apply.
 
 ### Troubleshooting
 - Clear browser cache and cookies
