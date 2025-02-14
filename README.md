@@ -57,6 +57,10 @@ Two-factor authentication is required for GitHub accounts. To set it up:
 
 ![alt text](image-5.png)
 
+6. If your application accepted you will get a message like this in github education page :
+
+   ![image](https://github.com/user-attachments/assets/d768b43d-2b30-40c0-84d8-572a284865e2)
+
 ## Verification Process
 
 ### Required Documentation
