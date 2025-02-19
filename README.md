@@ -65,6 +65,7 @@ Two-factor authentication is required for GitHub accounts. To set it up:
 
 ![image](https://github.com/user-attachments/assets/0df1adb6-6ef0-43d8-ad06-deb1c41a2680)
 
+![olk_Airf7QczK5](https://github.com/user-attachments/assets/d1377122-4d9b-406e-9d38-0a84bc06bfe2)
 
 ### Required Documentation
 - Clear photo of your student ID
